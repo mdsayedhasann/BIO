@@ -1,0 +1,3 @@
+School - 500000
+College - 10000
+University - 30000
